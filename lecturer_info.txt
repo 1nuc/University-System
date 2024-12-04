@@ -1,0 +1,7 @@
+| Lecturer ID     | Lecturer Name                  | Age             | Password                       |
++-----------------+--------------------------------+-----------------+--------------------------------+
+| 74799           | Ali                            | 37              | ali                            |
+| 74733           | Mei Yee                        | 43              | meiyee                         |
+| 103010          | Messi                          | 37              | betterthanronaldosuiii         |
+| 101110          | Neymar                         | 34              | bestwingerofalltime            |
+| 74793           | Amiraj                         | 40              | amiraj                         |

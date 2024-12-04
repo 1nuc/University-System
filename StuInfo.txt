@@ -1,0 +1,4 @@
+Student ID | Password        | First Name           | Last Name            | Age   | Gender     | Nationality     | Email                          | Address                                  | Course                         
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+235        | miki            | miki                 | ahmed                | 21    | male       | Yemen           | miki@gmail.com                 | onesouth                                 | ,101,10                       
+456        | khsda           | ali                  | mohamed              | 20    | Male       | Malaysia      | ahmed@gmail.com           | kjggfsa                   | 0               

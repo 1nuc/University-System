@@ -1,0 +1,6 @@
+ Course                                             | Student ID                                         | Percentage                     |Classes
+ AI                                                 | 21                                                 | 50.00                         %|1/2
+ AI                                                 | 21                                                 | 25.00                         %|1/4
+ AI                                                 | 235                                                | 100.00                        %|4/4
+ AI                                                 | 235                                                | 6.25                          %|1/16
+ AI                                                 | 456                                                | 6.25                          %|1/16

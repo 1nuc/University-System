@@ -1,0 +1,10 @@
+| Course ID  | Course Name                                                       | Course Type               | Lecturer Name        | Duration(hours) |
++------------+-------------------------------------------------------------------+---------------------------+----------------------+-----------------+
+| 101        | AI                                                                | lecture                   | Messi                | 2.00            |
+| 108        | AI                                                                | lab                       | Messi                | 1.00            |
+| 107        | Database                                                          | lecture                   | Ali                  | 2.00            |
+| 102        | Database                                                          | lab                       | Ali                  | 1.50            |
+| 103        | System Analysis and Design                                        | lecture                   | Mei Yee              | 2.00            |
+| 109        | System Analysis and Design                                        | lab                       | Mei Yee              | 1.00            |
+| 104        | C Programming                                                     | lecture                   | Neymar               | 1.50            |
+| 100        | C Programming                                                     | lab                       | Neymar               | 2.00            |
